@@ -2,12 +2,12 @@
 
 # 🧠 DSA Solutions
 
-### Algorithmic problem-solving — structured, optimized, and battle-tested over 2 years.
+### Algorithmic problem-solving — structured, optimized, and battle-tested over 1.5 years.
 
 ![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-100+-blueviolet?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-400+-blueviolet?style=for-the-badge)
 
 </div>
 
@@ -15,7 +15,7 @@
 
 ## 📌 About This Repository
 
-This repository is a curated collection of my Data Structures & Algorithms solutions written in **C++**, spanning **2 years** of consistent practice across **LeetCode** and **GeeksForGeeks**.
+This repository is a curated collection of my Data Structures & Algorithms solutions written in **C++**, spanning **1.5 years** of consistent practice across **LeetCode** and **GeeksForGeeks**.
 
 Every solution focuses on:
 - ✅ Clean, readable C++ code
