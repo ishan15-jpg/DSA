@@ -90,3 +90,15 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 ⭐ If this repo helped you, consider giving it a star!
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ishan15-jpg/DSA/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ishan15-jpg/DSA/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
