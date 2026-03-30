@@ -8,21 +8,21 @@
  */
 func buildTree(preorder []int, inorder []int) *TreeNode {
     if len(preorder) == 1 { 
-        root := TreeNode{ Val: preorder[0] }
-        return &root
+        var root *TreeNode = &TreeNode{ Val: preorder[0] }
+        return root
     }
 
-    var i int = 0
+    var i int16 = 0
 
-    var help func(int, int) *TreeNode
-    help = func(start int, end int) *TreeNode {
+    var help func(int16, int16) *TreeNode
+    help = func(start int16, end int16) *TreeNode {
         if start > end { return nil }
 
-        var root *TreeNode = &TreeNode{ Val: preorder[i] }
+        var root *TreeNode = &TreeNode{ Val: preorder[int(i)] }
 
-        var j int = start
+        var j int16 = start
         for j < end {
-            if inorder[j] == preorder[i] { break }
+            if inorder[int(j)] == preorder[int(i)] { break }
             j++ 
         }
 
@@ -34,5 +34,5 @@ func buildTree(preorder []int, inorder []int) *TreeNode {
         return root
     }
 
-    return help(0, len(preorder) - 1)
+    return help(0, int16(len(preorder) - 1))
 }
