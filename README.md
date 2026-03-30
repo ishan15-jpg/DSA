@@ -97,13 +97,16 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ishan15-jpg/DSA/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ishan15-jpg/DSA/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -112,5 +115,10 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
