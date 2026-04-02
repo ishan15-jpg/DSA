@@ -98,11 +98,13 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | ------- |
 | [0001-two-sum](https://github.com/ishan15-jpg/DSA/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/ishan15-jpg/DSA/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ishan15-jpg/DSA/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/ishan15-jpg/DSA/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -121,4 +123,12 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ishan15-jpg/DSA/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ishan15-jpg/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
