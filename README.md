@@ -98,6 +98,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | ------- |
 | [0001-two-sum](https://github.com/ishan15-jpg/DSA/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/ishan15-jpg/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ishan15-jpg/DSA/tree/master/0503-next-greater-element-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ishan15-jpg/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -106,6 +107,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | ------- |
 | [0001-two-sum](https://github.com/ishan15-jpg/DSA/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/ishan15-jpg/DSA/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
@@ -138,9 +140,22 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ishan15-jpg/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ishan15-jpg/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
