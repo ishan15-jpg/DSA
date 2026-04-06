@@ -6,19 +6,14 @@
 #         self.right = right
 class Solution:
     def buildTree(self, inorder: List[int], postorder: List[int]) -> Optional[TreeNode]:
-        n = len(inorder)
-
-        if n == 1: return TreeNode(postorder[0])
+        if not inorder: return TreeNode(inorder[0])
 
         inorder_map = { val: idx for idx, val in enumerate(inorder) }
-
-        postorder.reverse()
-        postorder_iter = iter(postorder)
 
         def help(start: int, end: int) -> Optional[TreeNode]:
             if start > end: return None
 
-            root_val = next(postorder_iter)
+            root_val = postorder.pop()
             root = TreeNode(root_val)
 
             idx = inorder_map[root_val]
@@ -28,4 +23,4 @@ class Solution:
 
             return root
         
-        return help(0, n-1)
+        return help(0, len(inorder)-1)
