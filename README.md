@@ -156,6 +156,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ishan15-jpg/DSA/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -165,4 +166,8 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ishan15-jpg/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
