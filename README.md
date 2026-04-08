@@ -158,10 +158,12 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | ------- |
 | [0050-powx-n](https://github.com/ishan15-jpg/DSA/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/ishan15-jpg/DSA/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/ishan15-jpg/DSA/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
 | ------- |
@@ -170,4 +172,5 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ishan15-jpg/DSA/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/ishan15-jpg/DSA/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
