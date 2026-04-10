@@ -102,6 +102,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/ishan15-jpg/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ishan15-jpg/DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ishan15-jpg/DSA/tree/master/0739-daily-temperatures) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ishan15-jpg/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/ishan15-jpg/DSA/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
@@ -138,11 +139,13 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ishan15-jpg/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ishan15-jpg/DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ishan15-jpg/DSA/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ishan15-jpg/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ishan15-jpg/DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ishan15-jpg/DSA/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
 | ------- |
