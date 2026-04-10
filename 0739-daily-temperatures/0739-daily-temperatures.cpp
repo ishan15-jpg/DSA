@@ -4,14 +4,16 @@ public:
         size_t n = temperatures.size();
         if(n == 1) return {0};
 
-        stack<pair<int,int>> st;
+        stack<int> st;
         vector<int> answer(n, 0);
 
-        for(int i=n-1; i>=0; i--){
-            while(!st.empty() && temperatures[i] >= st.top().first) st.pop();
+        for(int i=0; i<n; ++i){
+            while(!st.empty() && temperatures[i] > temperatures[st.top()]){
+                answer[st.top()] = i - st.top();
+                st.pop();
+            }
 
-            if(!st.empty()) answer[i] = st.top().second - i;
-            st.push({temperatures[i], i});
+            st.push(i);
         }
 
         return answer;
