@@ -116,6 +116,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/ishan15-jpg/DSA/tree/master/0496-next-greater-element-i) |
 | [1748-sum-of-unique-elements](https://github.com/ishan15-jpg/DSA/tree/master/1748-sum-of-unique-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ishan15-jpg/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Tree
 |  |
 | ------- |
@@ -191,4 +192,13 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/ishan15-jpg/DSA/tree/master/1748-sum-of-unique-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ishan15-jpg/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## String
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ishan15-jpg/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ishan15-jpg/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
