@@ -105,6 +105,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0739-daily-temperatures](https://github.com/ishan15-jpg/DSA/tree/master/0739-daily-temperatures) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ishan15-jpg/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/ishan15-jpg/DSA/tree/master/1539-kth-missing-positive-number) |
+| [2460-apply-operations-to-an-array](https://github.com/ishan15-jpg/DSA/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -176,4 +177,12 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | ------- |
 | [0050-powx-n](https://github.com/ishan15-jpg/DSA/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/ishan15-jpg/DSA/tree/master/0342-power-of-four) |
+## Two Pointers
+|  |
+| ------- |
+| [2460-apply-operations-to-an-array](https://github.com/ishan15-jpg/DSA/tree/master/2460-apply-operations-to-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2460-apply-operations-to-an-array](https://github.com/ishan15-jpg/DSA/tree/master/2460-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
