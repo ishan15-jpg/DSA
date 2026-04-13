@@ -105,6 +105,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0739-daily-temperatures](https://github.com/ishan15-jpg/DSA/tree/master/0739-daily-temperatures) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ishan15-jpg/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/ishan15-jpg/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1748-sum-of-unique-elements](https://github.com/ishan15-jpg/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2460-apply-operations-to-an-array](https://github.com/ishan15-jpg/DSA/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
@@ -114,6 +115,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/ishan15-jpg/DSA/tree/master/0496-next-greater-element-i) |
+| [1748-sum-of-unique-elements](https://github.com/ishan15-jpg/DSA/tree/master/1748-sum-of-unique-elements) |
 ## Tree
 |  |
 | ------- |
@@ -185,4 +187,8 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/ishan15-jpg/DSA/tree/master/2460-apply-operations-to-an-array) |
+## Counting
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/ishan15-jpg/DSA/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
