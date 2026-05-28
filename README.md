@@ -98,6 +98,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | ------- |
 | [0001-two-sum](https://github.com/ishan15-jpg/DSA/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ishan15-jpg/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/ishan15-jpg/DSA/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/ishan15-jpg/DSA/tree/master/0130-surrounded-regions) |
@@ -182,6 +183,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ishan15-jpg/DSA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/ishan15-jpg/DSA/tree/master/0342-power-of-four) |
 ## Sorting
@@ -232,4 +234,8 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ishan15-jpg/DSA/tree/master/0572-subtree-of-another-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ishan15-jpg/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
