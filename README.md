@@ -103,6 +103,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/ishan15-jpg/DSA/tree/master/0130-surrounded-regions) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ishan15-jpg/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/ishan15-jpg/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ishan15-jpg/DSA/tree/master/0503-next-greater-element-ii) |
@@ -150,6 +151,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ishan15-jpg/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/ishan15-jpg/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ishan15-jpg/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ishan15-jpg/DSA/tree/master/0739-daily-temperatures) |
@@ -179,6 +181,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ishan15-jpg/DSA/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ishan15-jpg/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/ishan15-jpg/DSA/tree/master/0342-power-of-four) |
 ## Bit Manipulation
