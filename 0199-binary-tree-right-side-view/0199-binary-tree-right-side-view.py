@@ -8,16 +8,15 @@ class Solution:
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
         if not root: return []
 
-        q, answer = deque([root]), []
+        answer = []
 
-        while len(q):
-            s = len(q)
+        def dfs(root: Optional[TreeNode], depth: int):
+            if not root: return 
+            if depth == len(answer): answer.append(root.val)
 
-            for i in range(s):
-                curr = q.popleft()
-                if curr.left: q.append(curr.left)
-                if curr.right: q.append(curr.right)
+            dfs(root.right, depth + 1)
+            dfs(root.left, depth + 1)
 
-                if i == s-1: answer.append(curr.val)
+        dfs(root, 0)
 
         return answer
