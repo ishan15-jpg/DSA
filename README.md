@@ -132,6 +132,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 ## Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ishan15-jpg/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -141,12 +142,14 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0130-surrounded-regions](https://github.com/ishan15-jpg/DSA/tree/master/0130-surrounded-regions) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/ishan15-jpg/DSA/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ishan15-jpg/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
