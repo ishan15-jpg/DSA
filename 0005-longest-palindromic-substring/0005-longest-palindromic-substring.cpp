@@ -3,19 +3,26 @@ public:
     string longestPalindrome(string s) {
         size_t n = s.length();
 
-        vector<vector<bool>> dp(n+1, vector<bool>(n+1, false));
-
         string answer = "";
         int max_ = 0;
 
-        for(int i=n-1; i>=0; --i)
-        for(int j=i; j<n; ++j){
-            if(s[i] == s[j] && (j-i+1 <= 3 || dp[i+1][j-1])){
-                dp[i][j] = true;
-                if(j-i+1 > max_){
-                    max_ = j-i+1;
-                    answer = s.substr(i,j-i+1);
+        for(int i=0; i<n; i++){
+            int l = i, r = i;
+            while(l >= 0 && r < n && s[l] == s[r]){
+                if(r-l+1 > max_){
+                    max_ = r-l+1;
+                    answer = s.substr(l,r-l+1);
                 }
+                --l; ++r;
+            }
+
+            l = i, r = i+1;
+            while(l >= 0 && r < n && s[l] == s[r]){
+                if(r-l+1 > max_){
+                    max_ = r-l+1;
+                    answer = s.substr(l,r-l+1);
+                }
+                --l; ++r;
             }
         }
 
