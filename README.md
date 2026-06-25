@@ -226,6 +226,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ishan15-jpg/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishan15-jpg/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2460-apply-operations-to-an-array](https://github.com/ishan15-jpg/DSA/tree/master/2460-apply-operations-to-an-array) |
 ## Simulation
@@ -241,6 +242,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ishan15-jpg/DSA/tree/master/0005-longest-palindromic-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ishan15-jpg/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
@@ -291,5 +293,6 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ishan15-jpg/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0213-house-robber-ii](https://github.com/ishan15-jpg/DSA/tree/master/0213-house-robber-ii) |
 <!---LeetCode Topics End-->
