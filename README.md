@@ -141,6 +141,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ishan15-jpg/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -150,6 +151,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0417-pacific-atlantic-water-flow](https://github.com/ishan15-jpg/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/ishan15-jpg/DSA/tree/master/0994-rotting-oranges) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -161,6 +163,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ishan15-jpg/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -258,6 +261,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ishan15-jpg/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/ishan15-jpg/DSA/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
