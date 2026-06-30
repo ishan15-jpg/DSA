@@ -133,6 +133,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ishan15-jpg/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -155,6 +156,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ishan15-jpg/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -255,6 +257,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ishan15-jpg/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/ishan15-jpg/DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/ishan15-jpg/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ishan15-jpg/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -294,6 +297,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ishan15-jpg/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ishan15-jpg/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
