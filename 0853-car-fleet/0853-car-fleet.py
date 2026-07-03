@@ -1,9 +1,12 @@
 class Solution:
     def carFleet(self, target: int, position: List[int], speed: List[int]) -> int:
-        pair = [(p,s) for p,s in zip(position,speed)]
-        pair.sort(reverse=True)
-        stack = []
-        for p,s in pair:
+        pairs = [(p,s) for p,s in zip(position,speed)]
+        pairs.sort(key=lambda x: x[0], reverse=True)
+        max_,fleet = -math.inf, 0
+        for p,s in pairs:
             time = (target - p) / s
-            if not stack or time > stack[-1] : stack.append(time)
-        return len(stack)
+            if time > max_:
+                max_ = time
+                fleet += 1
+
+        return fleet
