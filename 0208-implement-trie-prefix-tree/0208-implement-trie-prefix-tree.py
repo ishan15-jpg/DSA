@@ -1,7 +1,7 @@
 class TrieNode: 
     def __init__(self,value='\0'):
         self.value = value
-        self.child = [None] * 26
+        self.child = { i: None for i in range(27) }
         self.isTerminal = False
 
 class Trie:
