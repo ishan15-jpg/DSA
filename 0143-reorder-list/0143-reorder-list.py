@@ -5,39 +5,17 @@
 #         self.next = next
 class Solution:
     def reorderList(self, head: Optional[ListNode]) -> None:
-        def length(head: Optional[ListNode]):
-            l = 0
-            while head:
-                l += 1
-                head = head.next
-            return l
-
-        n = length(head)
-        j = n // 2 if n % 2 else n // 2 - 1
-
-        curr,temp,i = head,None,0
-        while curr:
-            if i == j: 
-                temp = curr.next
+        def help(root: Optional[ListNode], curr: Optional[ListNode]) -> Optional[ListNode]:
+            if not curr: return root
+            root = help(root, curr.next)
+            if not root: return None
+            temp = None
+            if root == curr or root.next == curr:
                 curr.next = None
-                break
-            i += 1
-            curr = curr.next
-
-        s,curr = [],temp
-        curr = temp
-        while curr: 
-            temp = curr.next
-            curr.next = None
-            s.append(curr)
-            curr = temp
-
-        curr = head
-        while curr and s:
-            temp = curr.next
-            curr.next = s[-1]
-            s[-1].next = temp
-            s.pop()
-            curr = temp
-
-        return head
+            else:
+                temp = root.next
+                root.next = curr
+                curr.next = temp
+            return temp
+        
+        help(head,head.next)
