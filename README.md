@@ -129,6 +129,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0208-implement-trie-prefix-tree](https://github.com/ishan15-jpg/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ishan15-jpg/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/ishan15-jpg/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/ishan15-jpg/DSA/tree/master/0496-next-greater-element-i) |
 | [1748-sum-of-unique-elements](https://github.com/ishan15-jpg/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ishan15-jpg/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -256,10 +257,12 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0005-longest-palindromic-substring](https://github.com/ishan15-jpg/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/ishan15-jpg/DSA/tree/master/0091-decode-ways) |
 | [0208-implement-trie-prefix-tree](https://github.com/ishan15-jpg/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0424-longest-repeating-character-replacement](https://github.com/ishan15-jpg/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ishan15-jpg/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/ishan15-jpg/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ishan15-jpg/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Depth-First Search
 |  |
