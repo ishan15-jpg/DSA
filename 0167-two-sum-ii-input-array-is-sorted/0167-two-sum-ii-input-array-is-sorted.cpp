@@ -3,12 +3,14 @@ public:
     vector<int> twoSum(vector<int>& numbers, int target) {
         size_t n = numbers.size();
 
-        int l = 0, r = n-1;
+        unordered_map<int,int> mp;
 
-        while(l < r){
-            if(numbers[l] + numbers[r] == target) return {l+1,r+1};
-            else if(numbers[l] + numbers[r] < target) l++;
-            else r--;
+        for(int i=0; i<n; i++){
+            int rem = target - numbers[i];
+            if(mp.find(rem) != mp.end()){
+                return {mp[rem], i+1};
+            }
+            mp[numbers[i]] = i+1;
         }
 
         return {-1,-1};
