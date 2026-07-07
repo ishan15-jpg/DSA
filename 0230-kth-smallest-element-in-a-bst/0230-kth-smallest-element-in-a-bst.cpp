@@ -12,23 +12,19 @@
 class Solution {
 public:
     int kthSmallest(TreeNode* root, int k) {
-        vector<int> temp(2);
-        temp[0] = k;
+        stack<TreeNode*> st;
+        TreeNode* curr = root;
 
-        function<void(TreeNode*)> inorder = [&](TreeNode* root){
-            if(!root) return;
-            inorder(root->left);
-            if(temp[0] == 0) return;
-            --temp[0];
-            if(temp[0] == 0){
-                temp[1] = root->val;
-                return;
+        while(!st.empty() || curr){
+            while(curr){
+                st.push(curr);
+                curr = curr->left;
             }
-            inorder(root->right);
-        };
+            curr = st.top(); st.pop();
+            if(--k == 0) break;
+            curr = curr->right;
+        }
 
-        inorder(root);
-
-        return temp[1];
+        return curr->val;
     }
 };
