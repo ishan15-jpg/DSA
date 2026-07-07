@@ -104,6 +104,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/ishan15-jpg/DSA/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/ishan15-jpg/DSA/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ishan15-jpg/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishan15-jpg/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0213-house-robber-ii](https://github.com/ishan15-jpg/DSA/tree/master/0213-house-robber-ii) |
@@ -222,6 +223,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ishan15-jpg/DSA/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/ishan15-jpg/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/ishan15-jpg/DSA/tree/master/0342-power-of-four) |
 ## Sorting
