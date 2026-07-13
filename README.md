@@ -110,6 +110,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0152-maximum-product-subarray](https://github.com/ishan15-jpg/DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishan15-jpg/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0213-house-robber-ii](https://github.com/ishan15-jpg/DSA/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/ishan15-jpg/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ishan15-jpg/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ishan15-jpg/DSA/tree/master/0417-pacific-atlantic-water-flow) |
@@ -351,4 +352,8 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/ishan15-jpg/DSA/tree/master/0210-course-schedule-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ishan15-jpg/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
