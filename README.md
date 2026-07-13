@@ -97,6 +97,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ishan15-jpg/DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/ishan15-jpg/DSA/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/ishan15-jpg/DSA/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/ishan15-jpg/DSA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/ishan15-jpg/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -237,6 +238,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ishan15-jpg/DSA/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ishan15-jpg/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/ishan15-jpg/DSA/tree/master/0853-car-fleet) |
@@ -250,6 +252,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ishan15-jpg/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/ishan15-jpg/DSA/tree/master/0015-3sum) |
 | [0143-reorder-list](https://github.com/ishan15-jpg/DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishan15-jpg/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2460-apply-operations-to-an-array](https://github.com/ishan15-jpg/DSA/tree/master/2460-apply-operations-to-an-array) |
