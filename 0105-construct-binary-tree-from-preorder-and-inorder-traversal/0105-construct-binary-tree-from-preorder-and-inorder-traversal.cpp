@@ -14,21 +14,21 @@ public:
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
         size_t n = preorder.size();
 
-        int i = 0;
-        unordered_map<int,int> mp;
-        for(int i=0; i<n; ++i) mp[inorder[i]] = i;
+        int preIdx = 0, inIdx = 0;
 
-        function<TreeNode*(int,int)> dfs = [&](int l, int r) -> TreeNode* {
-            if(i == n || l > r) return nullptr;
-
-            int j = mp[preorder[i]];
-            TreeNode* node = new TreeNode(preorder[i++]);
-            node->left = dfs(l,j-1);
-            node->right = dfs(j+1,r);
+        function<TreeNode*(int)> dfs = [&](int limit) -> TreeNode* {
+            if(preIdx >= n) return nullptr;
+            if(inorder[inIdx] == limit){
+                ++inIdx;
+                return nullptr;
+            }
+            TreeNode* node = new TreeNode(preorder[preIdx]);
+            node->left = dfs(preorder[preIdx++]);
+            node->right = dfs(limit);
 
             return node;
         };
 
-        return dfs(0,n-1);
+        return dfs(INT_MAX);
     }
 };
