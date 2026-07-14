@@ -15,16 +15,13 @@ public:
         size_t n = preorder.size();
 
         int i = 0;
+        unordered_map<int,int> mp;
+        for(int i=0; i<n; ++i) mp[inorder[i]] = i;
 
         function<TreeNode*(int,int)> dfs = [&](int l, int r) -> TreeNode* {
             if(i == n || l > r) return nullptr;
 
-            int j = -1;
-            for(int k=l; k<=r; ++k) 
-            if(inorder[k] == preorder[i]){
-                j = k;
-                break;
-            }
+            int j = mp[preorder[i]];
             TreeNode* node = new TreeNode(preorder[i++]);
             node->left = dfs(l,j-1);
             node->right = dfs(j+1,r);
