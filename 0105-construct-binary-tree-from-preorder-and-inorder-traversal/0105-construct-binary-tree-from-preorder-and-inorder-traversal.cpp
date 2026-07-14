@@ -12,31 +12,26 @@
 class Solution {
 public:
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        if(preorder.size() == 1){
-            TreeNode* node = new TreeNode(preorder[0]);
-            return node;
-        }
+        size_t n = preorder.size();
 
         int i = 0;
 
-        function<TreeNode*(int,int)> help = [&](int start, int end) -> TreeNode* {
-            if(start > end) return nullptr;
+        function<TreeNode*(int,int)> dfs = [&](int l, int r) -> TreeNode* {
+            if(i == n || l > r) return nullptr;
 
-            TreeNode* root = new TreeNode(preorder[i]);
-
-            int j = start;
-            while(j < end+1){ 
-                if(preorder[i] == inorder[j]) break;
-                j++;    
+            int j = -1;
+            for(int k=l; k<=r; ++k) 
+            if(inorder[k] == preorder[i]){
+                j = k;
+                break;
             }
-            i++;
+            TreeNode* node = new TreeNode(preorder[i++]);
+            node->left = dfs(l,j-1);
+            node->right = dfs(j+1,r);
 
-            root->left = help(start, j-1);
-            root->right = help(j+1, end);
-
-            return root;
+            return node;
         };
 
-        return help(0, preorder.size()-1);
+        return dfs(0,n-1);
     }
 };
