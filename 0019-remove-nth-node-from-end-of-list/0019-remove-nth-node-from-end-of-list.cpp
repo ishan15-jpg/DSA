@@ -10,28 +10,24 @@
  */
 class Solution {
 public:
-    ListNode* removeNthFromEnd(ListNode* head, int n){
-        int k = 1;
-        function<ListNode*(ListNode*,int&)> help = [&](ListNode* root, int& k) -> ListNode* {
-            if(!root) return nullptr;
-
-            ListNode* temp = help(root->next, k);
-
-            if(k == -1){
-                root->next = temp;
-                return root;
-            }
-
-            if(k == n){
-                root->next = nullptr;
-                delete root;
-                k = -1;
-                return temp;
-            }
-
-            ++k;
-            return root;
-        };
-        return help(head, k);
+    ListNode* removeNthFromEnd(ListNode* head, int n) {
+        ListNode* left = head;
+        ListNode* right = head;
+        while(n--) right = right->next;
+        ListNode* temp = nullptr;
+        while(right){
+            temp = left;
+            left = left->next;
+            right = right->next;
+        }
+        if(!temp){
+            temp = left->next;
+            delete left;
+            return temp;
+        }
+        temp->next = left->next;
+        left->next = nullptr;
+        delete left;
+        return head;
     }
 };
