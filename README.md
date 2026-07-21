@@ -146,6 +146,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0102-binary-tree-level-order-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0112-path-sum](https://github.com/ishan15-jpg/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ishan15-jpg/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ishan15-jpg/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ishan15-jpg/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -157,6 +158,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/ishan15-jpg/DSA/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/ishan15-jpg/DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/ishan15-jpg/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/ishan15-jpg/DSA/tree/master/0210-course-schedule-ii) |
@@ -171,6 +173,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0102-binary-tree-level-order-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0112-path-sum](https://github.com/ishan15-jpg/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ishan15-jpg/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ishan15-jpg/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ishan15-jpg/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -284,6 +287,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ishan15-jpg/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0112-path-sum](https://github.com/ishan15-jpg/DSA/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/ishan15-jpg/DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/ishan15-jpg/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/ishan15-jpg/DSA/tree/master/0210-course-schedule-ii) |
