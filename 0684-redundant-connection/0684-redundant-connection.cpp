@@ -9,8 +9,12 @@ class DSU {
     }
 
     int find(int node){
-        if(this->parent[node] == node) return node;
-        return parent[node] = find(this->parent[node]);
+        int curr = node;
+        while(parent[curr] != curr){
+            parent[curr] = parent[parent[curr]];
+            curr = parent[curr];
+        }
+        return curr;
     }
 
     bool join(int m, int n){
