@@ -6,20 +6,19 @@ public:
         vector<vector<int>> answer;
         vector<int> temp;
 
-        function<void(int,int)> backtrack = [&](int i, int sum){
-            if(sum == target){
+        function<void(int,int)> rec = [&](int i, int t){
+            if(i == n || t < 0) return;
+            if(t == 0){
                 answer.push_back(temp);
                 return;
             }
-            if(sum > target || i == n) return;
-
             temp.push_back(candidates[i]);
-            backtrack(i,sum+candidates[i]);
+            rec(i, t-candidates[i]);
             temp.pop_back();
-            backtrack(i+1,sum);
+            rec(i+1, t);
         };
 
-        backtrack(0,0);
+        rec(0,target);
 
         return answer;
     }
