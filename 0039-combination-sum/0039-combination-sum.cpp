@@ -6,16 +6,20 @@ public:
         vector<vector<int>> answer;
         vector<int> temp;
 
+        sort(candidates.begin(), candidates.end());
+
         function<void(int,int)> rec = [&](int i, int t){
             if(i == n || t < 0) return;
             if(t == 0){
                 answer.push_back(temp);
                 return;
             }
-            temp.push_back(candidates[i]);
-            rec(i, t-candidates[i]);
-            temp.pop_back();
-            rec(i+1, t);
+            for(int j=i; j<n; ++j){
+                if(t - candidates[j] < 0) return;
+                temp.push_back(candidates[j]);
+                rec(j, t-candidates[j]);
+                temp.pop_back();
+            }
         };
 
         rec(0,target);
