@@ -242,6 +242,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0136-single-number](https://github.com/ishan15-jpg/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ishan15-jpg/DSA/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/ishan15-jpg/DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ishan15-jpg/DSA/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
@@ -349,6 +350,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0091-decode-ways](https://github.com/ishan15-jpg/DSA/tree/master/0091-decode-ways) |
 | [0152-maximum-product-subarray](https://github.com/ishan15-jpg/DSA/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/ishan15-jpg/DSA/tree/master/0213-house-robber-ii) |
+| [0338-counting-bits](https://github.com/ishan15-jpg/DSA/tree/master/0338-counting-bits) |
 ## Linked List
 |  |
 | ------- |
