@@ -102,6 +102,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0053-maximum-subarray](https://github.com/ishan15-jpg/DSA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/ishan15-jpg/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ishan15-jpg/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ishan15-jpg/DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ishan15-jpg/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -226,6 +227,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ishan15-jpg/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/ishan15-jpg/DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ishan15-jpg/DSA/tree/master/0130-surrounded-regions) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ishan15-jpg/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0994-rotting-oranges](https://github.com/ishan15-jpg/DSA/tree/master/0994-rotting-oranges) |
@@ -282,6 +284,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ishan15-jpg/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0079-word-search](https://github.com/ishan15-jpg/DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ishan15-jpg/DSA/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/ishan15-jpg/DSA/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/ishan15-jpg/DSA/tree/master/0208-implement-trie-prefix-tree) |
@@ -295,6 +298,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ishan15-jpg/DSA/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/ishan15-jpg/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/ishan15-jpg/DSA/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/ishan15-jpg/DSA/tree/master/0130-surrounded-regions) |
@@ -325,6 +329,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | ------- |
 | [0039-combination-sum](https://github.com/ishan15-jpg/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/ishan15-jpg/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ishan15-jpg/DSA/tree/master/0079-word-search) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
