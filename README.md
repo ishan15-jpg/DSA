@@ -98,6 +98,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | ------- |
 | [0001-two-sum](https://github.com/ishan15-jpg/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ishan15-jpg/DSA/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/ishan15-jpg/DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ishan15-jpg/DSA/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/ishan15-jpg/DSA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/ishan15-jpg/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -132,6 +133,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ishan15-jpg/DSA/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/ishan15-jpg/DSA/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/ishan15-jpg/DSA/tree/master/0139-word-break) |
@@ -226,6 +228,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ishan15-jpg/DSA/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/ishan15-jpg/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ishan15-jpg/DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ishan15-jpg/DSA/tree/master/0130-surrounded-regions) |
