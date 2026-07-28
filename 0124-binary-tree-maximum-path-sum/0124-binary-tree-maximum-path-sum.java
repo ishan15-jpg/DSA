@@ -16,24 +16,19 @@
 class Solution {
     private int maxPathSum = Integer.MIN_VALUE;
 
-    private int getMax(TreeNode root){
+    private int help(TreeNode root){
         if(root == null) return 0;
-        int leftMax = getMax(root.left);
-        int rightMax = getMax(root.right);
-        return Math.max(0, root.val + Math.max(leftMax,rightMax));
+
+        int leftMax = Math.max(this.help(root.left),0);
+        int rightMax = Math.max(this.help(root.right),0);
+
+        this.maxPathSum = Math.max(this.maxPathSum, root.val + leftMax + rightMax);
+
+        return Math.max(0, root.val + Math.max(leftMax, rightMax));
     }
 
     public int maxPathSum(TreeNode root) {
-        if(root == null) return 0;
-
-        int leftSubMax = Math.max(getMax(root.left), 0);
-        int rightSubMax = Math.max(getMax(root.right), 0);
-
-        this.maxPathSum = Math.max(this.maxPathSum, leftSubMax + rightSubMax + root.val);
-
-        maxPathSum(root.left);
-        maxPathSum(root.right);
-
+        this.help(root);
         return this.maxPathSum;
     }
 }
