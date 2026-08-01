@@ -1,7 +1,6 @@
-class TrieNode: 
-    def __init__(self,value='\0'):
-        self.value = value
-        self.child = { i: None for i in range(27) }
+class TrieNode:
+    def __init__(self):
+        self.child = {}
         self.isTerminal = False
 
 class Trie:
@@ -9,37 +8,32 @@ class Trie:
         self.root = TrieNode()
 
     def insert(self, word: str) -> None:
-        n = len(word)
-        def util(root: TrieNode, i: int) -> TrieNode:
-            if i == n:
+        def insertUtil(word: str, root: TrieNode) -> None:
+            if len(word) == 0:
                 root.isTerminal = True
                 return
-            idx = ord(word[i]) - ord('a')
-            if not root.child[idx]:
-                node = TrieNode(idx)
-                root.child[idx] = node
-                util(node,i+1)
-            else:
-                util(root.child[idx],i+1)
-        util(self.root,0)
-            
+            key = word[0]
+            if key not in root.child:
+                root.child[key] = TrieNode()
+            insertUtil(word[1:], root.child[key])
+        insertUtil(word, self.root)
+
     def search(self, word: str) -> bool:
-        n = len(word)
-        def util(root: TrieNode, i: int) -> bool:
-            if i == n: return root.isTerminal
-            idx = ord(word[i]) - ord('a')
-            if not root.child[idx]: return False
-            return util(root.child[idx],i+1)
-        return util(self.root,0)
+        def searchUtil(word: str, root: TrieNode) -> bool:
+            if not len(word): return root.isTerminal
+            key = word[0]
+            if key not in root.child: return False
+            return searchUtil(word[1:], root.child[key])
+        return searchUtil(word, self.root)
 
     def startsWith(self, prefix: str) -> bool:
-        n = len(prefix)
-        def util(root: TrieNode, i: int) -> bool:
-            if i == n: return True
-            idx = ord(prefix[i]) - ord('a')
-            if not root.child[idx]: return False
-            return util(root.child[idx],i+1)
-        return util(self.root,0)
+        def startsWithUtil(prefix: str, root: TrieNode) -> bool:
+            if not len(prefix): return True
+            key = prefix[0]
+            if key not in root.child: return False
+            return startsWithUtil(prefix[1:], root.child[key])
+        return startsWithUtil(prefix, self.root)        
+
 
 # Your Trie object will be instantiated and called as such:
 # obj = Trie()
