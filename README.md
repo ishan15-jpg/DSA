@@ -154,6 +154,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0112-path-sum](https://github.com/ishan15-jpg/DSA/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ishan15-jpg/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ishan15-jpg/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ishan15-jpg/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ishan15-jpg/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -169,6 +170,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0130-surrounded-regions](https://github.com/ishan15-jpg/DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/ishan15-jpg/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/ishan15-jpg/DSA/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ishan15-jpg/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/ishan15-jpg/DSA/tree/master/0684-redundant-connection) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -184,6 +186,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0112-path-sum](https://github.com/ishan15-jpg/DSA/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ishan15-jpg/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ishan15-jpg/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ishan15-jpg/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ishan15-jpg/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -310,6 +313,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0130-surrounded-regions](https://github.com/ishan15-jpg/DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/ishan15-jpg/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/ishan15-jpg/DSA/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ishan15-jpg/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ishan15-jpg/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
