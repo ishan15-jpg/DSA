@@ -1,39 +1,21 @@
 class Solution:
     def solve(self, board: List[List[str]]) -> None:
-        m,n = len(board), len(board[0])
-
-        q = deque([])
-
-        for i in range(n) : 
-            if board[0][i] == 'O' : 
-                board[0][i] = 'Y'
-                q.appendleft((0,i))
-            if board[m-1][i] == 'O' : 
-                board[m-1][i] = 'Y'
-                q.appendleft((m-1,i))
-        
-        for i in range(m) : 
-            if board[i][0] == 'O' : 
-                board[i][0] = 'Y'
-                q.appendleft((i,0))
-            if board[i][n-1] == 'O' : 
-                board[i][n-1] = 'Y'
-                q.appendleft((i,n-1))
-
-
-        directions = [[1,0],[-1,0],[0,1],[0,-1]]
-
-        while q :
-            row,col = q.pop()
-
+        rows, cols = len(board), len(board[0])
+        visited, directions = set(), ((1,0),(0,1),(-1,0),(0,-1))
+        def dfs(row: int, col: int) -> None:
+            if row < 0 or col < 0 or row == rows or col == cols or (row,col) in visited or board[row][col] != 'O' : return
+            visited.add((row,col))
+            board[row][col] = 'T'
             for d in directions:
-                nrow, ncol = row + d[0], col + d[1]
-                
-                if nrow >= 0 and nrow < m and ncol >= 0 and ncol < n and board[nrow][ncol] == 'O' :
-                    board[nrow][ncol] = 'Y'
-                    q.appendleft((nrow,ncol))
-
-        for r in range(m) :
-            for c in range(n) :
+                n_row, n_col = row + d[0], col + d[1]
+                dfs(n_row, n_col)
+        for c in range(cols):
+            if (0,c) not in visited: dfs(0,c)
+            if (rows-1,c) not in visited: dfs(rows-1,c)
+        for r in range(rows):
+            if (r, 0) not in visited: dfs(r,0)
+            if (r, cols-1) not in visited: dfs(r, cols-1)
+        for r in range(rows):
+            for c in range(cols):
                 if board[r][c] == 'O' : board[r][c] = 'X'
-                elif board[r][c] == 'Y' : board[r][c] = 'O'
+                elif board[r][c] == 'T' : board[r][c] = 'O'
