@@ -125,6 +125,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0853-car-fleet](https://github.com/ishan15-jpg/DSA/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/ishan15-jpg/DSA/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/ishan15-jpg/DSA/tree/master/0994-rotting-oranges) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ishan15-jpg/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ishan15-jpg/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/ishan15-jpg/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1748-sum-of-unique-elements](https://github.com/ishan15-jpg/DSA/tree/master/1748-sum-of-unique-elements) |
@@ -231,6 +232,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/ishan15-jpg/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ishan15-jpg/DSA/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ishan15-jpg/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ishan15-jpg/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/ishan15-jpg/DSA/tree/master/1539-kth-missing-positive-number) |
 ## Matrix
