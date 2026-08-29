@@ -129,6 +129,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ishan15-jpg/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/ishan15-jpg/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1748-sum-of-unique-elements](https://github.com/ishan15-jpg/DSA/tree/master/1748-sum-of-unique-elements) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/ishan15-jpg/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2460-apply-operations-to-an-array](https://github.com/ishan15-jpg/DSA/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
@@ -303,6 +304,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0208-implement-trie-prefix-tree](https://github.com/ishan15-jpg/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/ishan15-jpg/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ishan15-jpg/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/ishan15-jpg/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -336,6 +338,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ishan15-jpg/DSA/tree/master/0572-subtree-of-another-tree) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/ishan15-jpg/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Hash Function
 |  |
 | ------- |
