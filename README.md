@@ -114,6 +114,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0152-maximum-product-subarray](https://github.com/ishan15-jpg/DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishan15-jpg/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0213-house-robber-ii](https://github.com/ishan15-jpg/DSA/tree/master/0213-house-robber-ii) |
+| [0219-contains-duplicate-ii](https://github.com/ishan15-jpg/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ishan15-jpg/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ishan15-jpg/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -140,6 +141,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/ishan15-jpg/DSA/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/ishan15-jpg/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0219-contains-duplicate-ii](https://github.com/ishan15-jpg/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ishan15-jpg/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ishan15-jpg/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -310,6 +312,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/ishan15-jpg/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/ishan15-jpg/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ishan15-jpg/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Depth-First Search
