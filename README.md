@@ -107,6 +107,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0084-largest-rectangle-in-histogram](https://github.com/ishan15-jpg/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0120-triangle](https://github.com/ishan15-jpg/DSA/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/ishan15-jpg/DSA/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/ishan15-jpg/DSA/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/ishan15-jpg/DSA/tree/master/0139-word-break) |
@@ -384,6 +385,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0005-longest-palindromic-substring](https://github.com/ishan15-jpg/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/ishan15-jpg/DSA/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/ishan15-jpg/DSA/tree/master/0091-decode-ways) |
+| [0120-triangle](https://github.com/ishan15-jpg/DSA/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ishan15-jpg/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/ishan15-jpg/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ishan15-jpg/DSA/tree/master/0152-maximum-product-subarray) |
