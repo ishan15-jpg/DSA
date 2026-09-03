@@ -21,8 +21,18 @@ class Solution:
                 currCol,nextCol = dp[r+1][c],dp[r+1][c+1]
                 dp[r][c] = triangle[r][c] + min(currCol,nextCol)
         return dp[0][0]
+    
+    def tabSO(self, triangle: List[List[int]]) -> int:
+        n = len(triangle)
+        next = [0] * (n+1)
+        for r in range(n-1,-1,-1):
+            curr = [0] * (n+1)
+            for c in range(len(triangle[r])-1,-1,-1):
+                curr[c] = min(next[c],next[c+1]) + triangle[r][c]
+            next = curr
+        return next[0]
 
     def minimumTotal(self, triangle: List[List[int]]) -> int:
         n = len(triangle)
         # dp = [[None] * (i+1) for i in range(n)]
-        return self.tab(triangle)
+        return self.tabSO(triangle)
