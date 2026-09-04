@@ -105,6 +105,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0078-subsets](https://github.com/ishan15-jpg/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ishan15-jpg/DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ishan15-jpg/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0090-subsets-ii](https://github.com/ishan15-jpg/DSA/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/ishan15-jpg/DSA/tree/master/0120-triangle) |
@@ -263,6 +264,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ishan15-jpg/DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/ishan15-jpg/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ishan15-jpg/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ishan15-jpg/DSA/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
@@ -359,6 +361,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0039-combination-sum](https://github.com/ishan15-jpg/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/ishan15-jpg/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ishan15-jpg/DSA/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/ishan15-jpg/DSA/tree/master/0090-subsets-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
