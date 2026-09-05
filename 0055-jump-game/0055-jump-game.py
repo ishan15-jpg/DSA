@@ -33,5 +33,11 @@ class Solution:
 
     def canJump(self, nums: List[int]) -> bool:
         # return self.rec(0,nums)
-        dp = [-1] * len(nums)
-        return self.tab(nums)
+        # dp = [-1] * len(nums)
+        # return self.tab(nums)
+        goal = 0
+        for i in range(len(nums)):
+            if i > goal: return False
+            goal = max(goal,i+nums[i])
+            if goal >= len(nums)-1: return True
+        return False
