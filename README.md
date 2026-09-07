@@ -117,6 +117,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0139-word-break](https://github.com/ishan15-jpg/DSA/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ishan15-jpg/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/ishan15-jpg/DSA/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ishan15-jpg/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishan15-jpg/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0213-house-robber-ii](https://github.com/ishan15-jpg/DSA/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/ishan15-jpg/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -239,6 +240,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ishan15-jpg/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ishan15-jpg/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishan15-jpg/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/ishan15-jpg/DSA/tree/master/0704-binary-search) |
