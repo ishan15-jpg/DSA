@@ -97,6 +97,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ishan15-jpg/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ishan15-jpg/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ishan15-jpg/DSA/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/ishan15-jpg/DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ishan15-jpg/DSA/tree/master/0039-combination-sum) |
@@ -289,6 +290,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ishan15-jpg/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/ishan15-jpg/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ishan15-jpg/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ishan15-jpg/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/ishan15-jpg/DSA/tree/master/0143-reorder-list) |
@@ -437,6 +439,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ishan15-jpg/DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/ishan15-jpg/DSA/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/ishan15-jpg/DSA/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
