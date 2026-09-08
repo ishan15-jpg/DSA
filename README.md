@@ -169,6 +169,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ishan15-jpg/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ishan15-jpg/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ishan15-jpg/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ishan15-jpg/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ishan15-jpg/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -184,6 +185,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0199-binary-tree-right-side-view](https://github.com/ishan15-jpg/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/ishan15-jpg/DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ishan15-jpg/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0617-merge-two-binary-trees](https://github.com/ishan15-jpg/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/ishan15-jpg/DSA/tree/master/0684-redundant-connection) |
@@ -205,6 +207,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ishan15-jpg/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ishan15-jpg/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ishan15-jpg/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ishan15-jpg/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ishan15-jpg/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -317,6 +320,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0091-decode-ways](https://github.com/ishan15-jpg/DSA/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/ishan15-jpg/DSA/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/ishan15-jpg/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/ishan15-jpg/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/ishan15-jpg/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ishan15-jpg/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -342,6 +346,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ishan15-jpg/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ishan15-jpg/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ishan15-jpg/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/ishan15-jpg/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ishan15-jpg/DSA/tree/master/0617-merge-two-binary-trees) |
@@ -411,6 +416,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ishan15-jpg/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ishan15-jpg/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Trie
 |  |
