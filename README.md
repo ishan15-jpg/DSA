@@ -102,6 +102,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0036-valid-sudoku](https://github.com/ishan15-jpg/DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ishan15-jpg/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ishan15-jpg/DSA/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/ishan15-jpg/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ishan15-jpg/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ishan15-jpg/DSA/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/ishan15-jpg/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -255,6 +256,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ishan15-jpg/DSA/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/ishan15-jpg/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/ishan15-jpg/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ishan15-jpg/DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ishan15-jpg/DSA/tree/master/0130-surrounded-regions) |
@@ -264,6 +266,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ishan15-jpg/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ishan15-jpg/DSA/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ishan15-jpg/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
