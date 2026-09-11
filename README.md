@@ -106,6 +106,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0053-maximum-subarray](https://github.com/ishan15-jpg/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ishan15-jpg/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ishan15-jpg/DSA/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/ishan15-jpg/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ishan15-jpg/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ishan15-jpg/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ishan15-jpg/DSA/tree/master/0079-word-search) |
@@ -145,6 +146,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | ------- |
 | [0001-two-sum](https://github.com/ishan15-jpg/DSA/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/ishan15-jpg/DSA/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/ishan15-jpg/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/ishan15-jpg/DSA/tree/master/0139-word-break) |
@@ -259,6 +261,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0036-valid-sudoku](https://github.com/ishan15-jpg/DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ishan15-jpg/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ishan15-jpg/DSA/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/ishan15-jpg/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ishan15-jpg/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ishan15-jpg/DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ishan15-jpg/DSA/tree/master/0130-surrounded-regions) |
