@@ -101,6 +101,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0015-3sum](https://github.com/ishan15-jpg/DSA/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/ishan15-jpg/DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ishan15-jpg/DSA/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/ishan15-jpg/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ishan15-jpg/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ishan15-jpg/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ishan15-jpg/DSA/tree/master/0053-maximum-subarray) |
@@ -230,6 +231,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ishan15-jpg/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ishan15-jpg/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/ishan15-jpg/DSA/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ishan15-jpg/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -240,6 +242,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ishan15-jpg/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ishan15-jpg/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/ishan15-jpg/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ishan15-jpg/DSA/tree/master/0503-next-greater-element-ii) |
@@ -308,6 +311,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0011-container-with-most-water](https://github.com/ishan15-jpg/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ishan15-jpg/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ishan15-jpg/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/ishan15-jpg/DSA/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/ishan15-jpg/DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishan15-jpg/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0680-valid-palindrome-ii](https://github.com/ishan15-jpg/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -410,6 +414,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ishan15-jpg/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/ishan15-jpg/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ishan15-jpg/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ishan15-jpg/DSA/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/ishan15-jpg/DSA/tree/master/0091-decode-ways) |
