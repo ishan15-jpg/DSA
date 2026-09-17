@@ -17,7 +17,6 @@ func search(nums []int, target int) int {
         }
         return -1
     }
-    result := binarySearch(0,l-1)
-    if result != -1 { return result }
-    return binarySearch(l,len(nums)-1)
+    if target >= nums[l] && target <= nums[len(nums)-1] { return binarySearch(l,len(nums)-1) }
+    return binarySearch(0,l-1)
 }
