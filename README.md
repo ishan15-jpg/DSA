@@ -163,6 +163,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0347-top-k-frequent-elements](https://github.com/ishan15-jpg/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ishan15-jpg/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/ishan15-jpg/DSA/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/ishan15-jpg/DSA/tree/master/0567-permutation-in-string) |
 | [1748-sum-of-unique-elements](https://github.com/ishan15-jpg/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ishan15-jpg/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Tree
@@ -319,6 +320,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0042-trapping-rain-water](https://github.com/ishan15-jpg/DSA/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/ishan15-jpg/DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishan15-jpg/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/ishan15-jpg/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/ishan15-jpg/DSA/tree/master/0680-valid-palindrome-ii) |
 | [2460-apply-operations-to-an-array](https://github.com/ishan15-jpg/DSA/tree/master/2460-apply-operations-to-an-array) |
 ## Simulation
@@ -343,6 +345,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0208-implement-trie-prefix-tree](https://github.com/ishan15-jpg/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/ishan15-jpg/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ishan15-jpg/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/ishan15-jpg/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ishan15-jpg/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ishan15-jpg/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -352,6 +355,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0003-longest-substring-without-repeating-characters](https://github.com/ishan15-jpg/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ishan15-jpg/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/ishan15-jpg/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ishan15-jpg/DSA/tree/master/0567-permutation-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ishan15-jpg/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Depth-First Search
 |  |
