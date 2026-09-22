@@ -130,6 +130,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0219-contains-duplicate-ii](https://github.com/ishan15-jpg/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ishan15-jpg/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ishan15-jpg/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/ishan15-jpg/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ishan15-jpg/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0496-next-greater-element-i](https://github.com/ishan15-jpg/DSA/tree/master/0496-next-greater-element-i) |
@@ -261,6 +262,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ishan15-jpg/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishan15-jpg/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ishan15-jpg/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/ishan15-jpg/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ishan15-jpg/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ishan15-jpg/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -295,6 +297,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0136-single-number](https://github.com/ishan15-jpg/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ishan15-jpg/DSA/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ishan15-jpg/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/ishan15-jpg/DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ishan15-jpg/DSA/tree/master/0342-power-of-four) |
 ## Sorting
@@ -320,6 +323,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0042-trapping-rain-water](https://github.com/ishan15-jpg/DSA/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/ishan15-jpg/DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishan15-jpg/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/ishan15-jpg/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/ishan15-jpg/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/ishan15-jpg/DSA/tree/master/0680-valid-palindrome-ii) |
 | [2460-apply-operations-to-an-array](https://github.com/ishan15-jpg/DSA/tree/master/2460-apply-operations-to-an-array) |
@@ -480,4 +484,12 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0011-container-with-most-water](https://github.com/ishan15-jpg/DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/ishan15-jpg/DSA/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/ishan15-jpg/DSA/tree/master/0680-valid-palindrome-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ishan15-jpg/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ishan15-jpg/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
