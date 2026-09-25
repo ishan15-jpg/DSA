@@ -159,6 +159,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0128-longest-consecutive-sequence](https://github.com/ishan15-jpg/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/ishan15-jpg/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/ishan15-jpg/DSA/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/ishan15-jpg/DSA/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/ishan15-jpg/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/ishan15-jpg/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
@@ -452,9 +453,11 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ishan15-jpg/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/ishan15-jpg/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/ishan15-jpg/DSA/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/ishan15-jpg/DSA/tree/master/0146-lru-cache) |
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ishan15-jpg/DSA/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/ishan15-jpg/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ishan15-jpg/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -506,4 +509,8 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/ishan15-jpg/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ishan15-jpg/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
