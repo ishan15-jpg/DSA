@@ -127,6 +127,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ishan15-jpg/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishan15-jpg/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0213-house-robber-ii](https://github.com/ishan15-jpg/DSA/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ishan15-jpg/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/ishan15-jpg/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ishan15-jpg/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
@@ -236,6 +237,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0191-number-of-1-bits](https://github.com/ishan15-jpg/DSA/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ishan15-jpg/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ishan15-jpg/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/ishan15-jpg/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Stack
@@ -310,6 +312,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ishan15-jpg/DSA/tree/master/0015-3sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ishan15-jpg/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ishan15-jpg/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/ishan15-jpg/DSA/tree/master/0853-car-fleet) |
@@ -416,6 +419,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ishan15-jpg/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ishan15-jpg/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ishan15-jpg/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/ishan15-jpg/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -426,6 +430,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ishan15-jpg/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ishan15-jpg/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/ishan15-jpg/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search Tree
