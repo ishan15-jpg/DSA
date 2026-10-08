@@ -237,6 +237,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ishan15-jpg/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ishan15-jpg/DSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -431,6 +432,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ishan15-jpg/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ishan15-jpg/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ishan15-jpg/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ishan15-jpg/DSA/tree/master/0621-task-scheduler) |
@@ -474,6 +476,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ishan15-jpg/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ishan15-jpg/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/ishan15-jpg/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/ishan15-jpg/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/ishan15-jpg/DSA/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/ishan15-jpg/DSA/tree/master/0146-lru-cache) |
@@ -538,4 +541,12 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ishan15-jpg/DSA/tree/master/0146-lru-cache) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ishan15-jpg/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ishan15-jpg/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
