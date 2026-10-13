@@ -136,6 +136,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0287-find-the-duplicate-number](https://github.com/ishan15-jpg/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/ishan15-jpg/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ishan15-jpg/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0455-assign-cookies](https://github.com/ishan15-jpg/DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/ishan15-jpg/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ishan15-jpg/DSA/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/ishan15-jpg/DSA/tree/master/0621-task-scheduler) |
@@ -321,6 +322,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0215-kth-largest-element-in-an-array](https://github.com/ishan15-jpg/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ishan15-jpg/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/ishan15-jpg/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/ishan15-jpg/DSA/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/ishan15-jpg/DSA/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/ishan15-jpg/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -342,6 +344,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0143-reorder-list](https://github.com/ishan15-jpg/DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishan15-jpg/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ishan15-jpg/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/ishan15-jpg/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/ishan15-jpg/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/ishan15-jpg/DSA/tree/master/0680-valid-palindrome-ii) |
 | [2460-apply-operations-to-an-array](https://github.com/ishan15-jpg/DSA/tree/master/2460-apply-operations-to-an-array) |
@@ -521,6 +524,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0011-container-with-most-water](https://github.com/ishan15-jpg/DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/ishan15-jpg/DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/ishan15-jpg/DSA/tree/master/0134-gas-station) |
+| [0455-assign-cookies](https://github.com/ishan15-jpg/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/ishan15-jpg/DSA/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/ishan15-jpg/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Pigeonhole Principle
@@ -551,4 +555,8 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ishan15-jpg/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ishan15-jpg/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
