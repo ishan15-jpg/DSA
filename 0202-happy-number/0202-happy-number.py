@@ -7,12 +7,8 @@ class Solution:
         return sum
 
     def isHappy(self, n: int) -> bool:
-        sum = 0
         seen = set()
-        while sum != 1:
-            sum = self.sumOfSquare(n)
-            if sum == 1: return True
-            if sum in seen: break
-            seen.add(sum)
-            n = sum
-        return False
+        while n != 1 and n not in seen:
+            seen.add(n)
+            n = self.sumOfSquare(n)
+        return n == 1
