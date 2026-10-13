@@ -143,6 +143,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0704-binary-search](https://github.com/ishan15-jpg/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ishan15-jpg/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/ishan15-jpg/DSA/tree/master/0853-car-fleet) |
+| [0860-lemonade-change](https://github.com/ishan15-jpg/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/ishan15-jpg/DSA/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/ishan15-jpg/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/ishan15-jpg/DSA/tree/master/0994-rotting-oranges) |
@@ -527,6 +528,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0455-assign-cookies](https://github.com/ishan15-jpg/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/ishan15-jpg/DSA/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/ishan15-jpg/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/ishan15-jpg/DSA/tree/master/0860-lemonade-change) |
 ## Pigeonhole Principle
 |  |
 | ------- |
