@@ -109,6 +109,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0053-maximum-subarray](https://github.com/ishan15-jpg/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ishan15-jpg/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ishan15-jpg/DSA/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/ishan15-jpg/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ishan15-jpg/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ishan15-jpg/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ishan15-jpg/DSA/tree/master/0078-subsets) |
@@ -323,6 +324,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ishan15-jpg/DSA/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/ishan15-jpg/DSA/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ishan15-jpg/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ishan15-jpg/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -568,6 +570,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ishan15-jpg/DSA/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/ishan15-jpg/DSA/tree/master/0455-assign-cookies) |
 ## Timsort
 |  |
