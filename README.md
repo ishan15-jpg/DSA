@@ -136,6 +136,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ishan15-jpg/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/ishan15-jpg/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0406-queue-reconstruction-by-height](https://github.com/ishan15-jpg/DSA/tree/master/0406-queue-reconstruction-by-height) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ishan15-jpg/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/ishan15-jpg/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ishan15-jpg/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -330,6 +331,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0215-kth-largest-element-in-an-array](https://github.com/ishan15-jpg/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ishan15-jpg/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0406-queue-reconstruction-by-height](https://github.com/ishan15-jpg/DSA/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/ishan15-jpg/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ishan15-jpg/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ishan15-jpg/DSA/tree/master/0455-assign-cookies) |
@@ -583,4 +585,12 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/ishan15-jpg/DSA/tree/master/0881-boats-to-save-people) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/ishan15-jpg/DSA/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/ishan15-jpg/DSA/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
