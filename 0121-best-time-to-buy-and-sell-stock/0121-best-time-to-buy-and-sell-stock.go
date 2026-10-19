@@ -1,8 +1,8 @@
 func maxProfit(prices []int) int {
-    res,min_ := 0,prices[0]
-    for i := range prices {
-        res = max(res,prices[i]-min_)
-        min_ = min(min_,prices[i])
+    min_,res := prices[0],0
+    for _,p := range prices {
+        res = max(res, p-min_)
+        min_ = min(min_, p)
     }
     return res
 }
