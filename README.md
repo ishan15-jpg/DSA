@@ -181,6 +181,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0496-next-greater-element-i](https://github.com/ishan15-jpg/DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/ishan15-jpg/DSA/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/ishan15-jpg/DSA/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/ishan15-jpg/DSA/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/ishan15-jpg/DSA/tree/master/0981-time-based-key-value-store) |
 | [1748-sum-of-unique-elements](https://github.com/ishan15-jpg/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ishan15-jpg/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -361,6 +362,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0455-assign-cookies](https://github.com/ishan15-jpg/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/ishan15-jpg/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/ishan15-jpg/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/ishan15-jpg/DSA/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/ishan15-jpg/DSA/tree/master/0881-boats-to-save-people) |
 | [2460-apply-operations-to-an-array](https://github.com/ishan15-jpg/DSA/tree/master/2460-apply-operations-to-an-array) |
 ## Simulation
@@ -390,6 +392,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0424-longest-repeating-character-replacement](https://github.com/ishan15-jpg/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ishan15-jpg/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/ishan15-jpg/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/ishan15-jpg/DSA/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/ishan15-jpg/DSA/tree/master/0981-time-based-key-value-store) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ishan15-jpg/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ishan15-jpg/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -545,6 +548,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0455-assign-cookies](https://github.com/ishan15-jpg/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/ishan15-jpg/DSA/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/ishan15-jpg/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/ishan15-jpg/DSA/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/ishan15-jpg/DSA/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/ishan15-jpg/DSA/tree/master/0881-boats-to-save-people) |
 ## Pigeonhole Principle
