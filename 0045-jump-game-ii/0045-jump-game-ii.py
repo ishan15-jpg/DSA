@@ -17,6 +17,17 @@ class Solution:
         dp[i] = res+1
         return dp[i]
 
+    def tab(self, nums: list[int]) -> int:
+        dp = [float(inf)] * len(nums)
+        dp[len(nums)-1] = 0
+        for i in range(len(nums)-2,-1,-1):
+            if nums[i] == 0: continue
+            res = float(inf)
+            for step in range(1,nums[i]+1):
+                if i+step < len(nums):
+                    res = min(res,dp[i+step])
+            dp[i] = res + 1
+        return dp[0]
+
     def jump(self, nums: list[int]) -> int:
-        dp = [-1] * len(nums)
-        return self.memo(0,dp,nums)
+        return self.tab(nums)
