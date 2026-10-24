@@ -150,6 +150,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0739-daily-temperatures](https://github.com/ishan15-jpg/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/ishan15-jpg/DSA/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/ishan15-jpg/DSA/tree/master/0860-lemonade-change) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/ishan15-jpg/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/ishan15-jpg/DSA/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/ishan15-jpg/DSA/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/ishan15-jpg/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -461,6 +462,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0347-top-k-frequent-elements](https://github.com/ishan15-jpg/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ishan15-jpg/DSA/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ishan15-jpg/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/ishan15-jpg/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/ishan15-jpg/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
@@ -498,6 +500,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0213-house-robber-ii](https://github.com/ishan15-jpg/DSA/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/ishan15-jpg/DSA/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/ishan15-jpg/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/ishan15-jpg/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Linked List
 |  |
 | ------- |
@@ -556,6 +559,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0680-valid-palindrome-ii](https://github.com/ishan15-jpg/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/ishan15-jpg/DSA/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/ishan15-jpg/DSA/tree/master/0860-lemonade-change) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/ishan15-jpg/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0881-boats-to-save-people](https://github.com/ishan15-jpg/DSA/tree/master/0881-boats-to-save-people) |
 ## Pigeonhole Principle
 |  |
