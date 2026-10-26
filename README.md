@@ -125,6 +125,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0128-longest-consecutive-sequence](https://github.com/ishan15-jpg/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ishan15-jpg/DSA/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/ishan15-jpg/DSA/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/ishan15-jpg/DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/ishan15-jpg/DSA/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/ishan15-jpg/DSA/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ishan15-jpg/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -555,6 +556,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0055-jump-game](https://github.com/ishan15-jpg/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ishan15-jpg/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ishan15-jpg/DSA/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/ishan15-jpg/DSA/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/ishan15-jpg/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0435-non-overlapping-intervals](https://github.com/ishan15-jpg/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ishan15-jpg/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
