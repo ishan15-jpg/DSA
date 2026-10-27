@@ -271,6 +271,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0503-next-greater-element-ii](https://github.com/ishan15-jpg/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ishan15-jpg/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/ishan15-jpg/DSA/tree/master/0853-car-fleet) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ishan15-jpg/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -281,6 +282,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0503-next-greater-element-ii](https://github.com/ishan15-jpg/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ishan15-jpg/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/ishan15-jpg/DSA/tree/master/0853-car-fleet) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ishan15-jpg/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -401,6 +403,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0680-valid-palindrome-ii](https://github.com/ishan15-jpg/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/ishan15-jpg/DSA/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/ishan15-jpg/DSA/tree/master/0981-time-based-key-value-store) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ishan15-jpg/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ishan15-jpg/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ishan15-jpg/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Sliding Window
@@ -567,6 +570,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0860-lemonade-change](https://github.com/ishan15-jpg/DSA/tree/master/0860-lemonade-change) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ishan15-jpg/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0881-boats-to-save-people](https://github.com/ishan15-jpg/DSA/tree/master/0881-boats-to-save-people) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ishan15-jpg/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Pigeonhole Principle
 |  |
 | ------- |
