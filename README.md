@@ -157,6 +157,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0973-k-closest-points-to-origin](https://github.com/ishan15-jpg/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/ishan15-jpg/DSA/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ishan15-jpg/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1029-two-city-scheduling](https://github.com/ishan15-jpg/DSA/tree/master/1029-two-city-scheduling) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ishan15-jpg/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/ishan15-jpg/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1748-sum-of-unique-elements](https://github.com/ishan15-jpg/DSA/tree/master/1748-sum-of-unique-elements) |
@@ -348,6 +349,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0853-car-fleet](https://github.com/ishan15-jpg/DSA/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/ishan15-jpg/DSA/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/ishan15-jpg/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1029-two-city-scheduling](https://github.com/ishan15-jpg/DSA/tree/master/1029-two-city-scheduling) |
 ## Recursion
 |  |
 | ------- |
@@ -570,6 +572,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0860-lemonade-change](https://github.com/ishan15-jpg/DSA/tree/master/0860-lemonade-change) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ishan15-jpg/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0881-boats-to-save-people](https://github.com/ishan15-jpg/DSA/tree/master/0881-boats-to-save-people) |
+| [1029-two-city-scheduling](https://github.com/ishan15-jpg/DSA/tree/master/1029-two-city-scheduling) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ishan15-jpg/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Pigeonhole Principle
 |  |
@@ -617,4 +620,12 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/ishan15-jpg/DSA/tree/master/0406-queue-reconstruction-by-height) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/ishan15-jpg/DSA/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/ishan15-jpg/DSA/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
