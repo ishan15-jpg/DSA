@@ -188,6 +188,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0621-task-scheduler](https://github.com/ishan15-jpg/DSA/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/ishan15-jpg/DSA/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/ishan15-jpg/DSA/tree/master/0981-time-based-key-value-store) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ishan15-jpg/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1748-sum-of-unique-elements](https://github.com/ishan15-jpg/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ishan15-jpg/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Tree
@@ -350,6 +351,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0881-boats-to-save-people](https://github.com/ishan15-jpg/DSA/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/ishan15-jpg/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1029-two-city-scheduling](https://github.com/ishan15-jpg/DSA/tree/master/1029-two-city-scheduling) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ishan15-jpg/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## Recursion
 |  |
 | ------- |
@@ -406,6 +408,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0763-partition-labels](https://github.com/ishan15-jpg/DSA/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/ishan15-jpg/DSA/tree/master/0981-time-based-key-value-store) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ishan15-jpg/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ishan15-jpg/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ishan15-jpg/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ishan15-jpg/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Sliding Window
@@ -574,6 +577,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0881-boats-to-save-people](https://github.com/ishan15-jpg/DSA/tree/master/0881-boats-to-save-people) |
 | [1029-two-city-scheduling](https://github.com/ishan15-jpg/DSA/tree/master/1029-two-city-scheduling) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ishan15-jpg/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ishan15-jpg/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## Pigeonhole Principle
 |  |
 | ------- |
