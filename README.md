@@ -107,6 +107,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0045-jump-game-ii](https://github.com/ishan15-jpg/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/ishan15-jpg/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ishan15-jpg/DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/ishan15-jpg/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ishan15-jpg/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ishan15-jpg/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ishan15-jpg/DSA/tree/master/0055-jump-game) |
@@ -171,6 +172,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0003-longest-substring-without-repeating-characters](https://github.com/ishan15-jpg/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ishan15-jpg/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/ishan15-jpg/DSA/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/ishan15-jpg/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ishan15-jpg/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ishan15-jpg/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -339,6 +341,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ishan15-jpg/DSA/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/ishan15-jpg/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ishan15-jpg/DSA/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ishan15-jpg/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/ishan15-jpg/DSA/tree/master/0268-missing-number) |
@@ -396,6 +399,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0003-longest-substring-without-repeating-characters](https://github.com/ishan15-jpg/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ishan15-jpg/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ishan15-jpg/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/ishan15-jpg/DSA/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/ishan15-jpg/DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ishan15-jpg/DSA/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/ishan15-jpg/DSA/tree/master/0131-palindrome-partitioning) |
