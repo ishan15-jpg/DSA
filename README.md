@@ -278,6 +278,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0503-next-greater-element-ii](https://github.com/ishan15-jpg/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ishan15-jpg/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ishan15-jpg/DSA/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/ishan15-jpg/DSA/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/ishan15-jpg/DSA/tree/master/0853-car-fleet) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ishan15-jpg/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
@@ -382,6 +383,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0567-permutation-in-string](https://github.com/ishan15-jpg/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/ishan15-jpg/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/ishan15-jpg/DSA/tree/master/0763-partition-labels) |
+| [0844-backspace-string-compare](https://github.com/ishan15-jpg/DSA/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/ishan15-jpg/DSA/tree/master/0881-boats-to-save-people) |
 | [2460-apply-operations-to-an-array](https://github.com/ishan15-jpg/DSA/tree/master/2460-apply-operations-to-an-array) |
 ## Simulation
@@ -389,6 +391,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | ------- |
 | [0054-spiral-matrix](https://github.com/ishan15-jpg/DSA/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/ishan15-jpg/DSA/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/ishan15-jpg/DSA/tree/master/0844-backspace-string-compare) |
 | [2460-apply-operations-to-an-array](https://github.com/ishan15-jpg/DSA/tree/master/2460-apply-operations-to-an-array) |
 ## Counting
 |  |
@@ -416,6 +419,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0567-permutation-in-string](https://github.com/ishan15-jpg/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/ishan15-jpg/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/ishan15-jpg/DSA/tree/master/0763-partition-labels) |
+| [0844-backspace-string-compare](https://github.com/ishan15-jpg/DSA/tree/master/0844-backspace-string-compare) |
 | [0981-time-based-key-value-store](https://github.com/ishan15-jpg/DSA/tree/master/0981-time-based-key-value-store) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ishan15-jpg/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ishan15-jpg/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
