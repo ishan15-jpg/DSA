@@ -149,6 +149,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0496-next-greater-element-i](https://github.com/ishan15-jpg/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ishan15-jpg/DSA/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/ishan15-jpg/DSA/tree/master/0621-task-scheduler) |
+| [0682-baseball-game](https://github.com/ishan15-jpg/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ishan15-jpg/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ishan15-jpg/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/ishan15-jpg/DSA/tree/master/0853-car-fleet) |
@@ -275,6 +276,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0316-remove-duplicate-letters](https://github.com/ishan15-jpg/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/ishan15-jpg/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ishan15-jpg/DSA/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/ishan15-jpg/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ishan15-jpg/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/ishan15-jpg/DSA/tree/master/0853-car-fleet) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ishan15-jpg/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -386,6 +388,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ishan15-jpg/DSA/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/ishan15-jpg/DSA/tree/master/0682-baseball-game) |
 | [2460-apply-operations-to-an-array](https://github.com/ishan15-jpg/DSA/tree/master/2460-apply-operations-to-an-array) |
 ## Counting
 |  |
