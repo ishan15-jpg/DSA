@@ -375,6 +375,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0015-3sum](https://github.com/ishan15-jpg/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ishan15-jpg/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/ishan15-jpg/DSA/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/ishan15-jpg/DSA/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/ishan15-jpg/DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishan15-jpg/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/ishan15-jpg/DSA/tree/master/0202-happy-number) |
@@ -410,6 +411,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0049-group-anagrams](https://github.com/ishan15-jpg/DSA/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/ishan15-jpg/DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ishan15-jpg/DSA/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/ishan15-jpg/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/ishan15-jpg/DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/ishan15-jpg/DSA/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/ishan15-jpg/DSA/tree/master/0208-implement-trie-prefix-tree) |
