@@ -151,6 +151,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0503-next-greater-element-ii](https://github.com/ishan15-jpg/DSA/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/ishan15-jpg/DSA/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/ishan15-jpg/DSA/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/ishan15-jpg/DSA/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/ishan15-jpg/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ishan15-jpg/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/ishan15-jpg/DSA/tree/master/0853-car-fleet) |
@@ -233,6 +234,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0417-pacific-atlantic-water-flow](https://github.com/ishan15-jpg/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0617-merge-two-binary-trees](https://github.com/ishan15-jpg/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/ishan15-jpg/DSA/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/ishan15-jpg/DSA/tree/master/0695-max-area-of-island) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/ishan15-jpg/DSA/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -323,6 +325,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0130-surrounded-regions](https://github.com/ishan15-jpg/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ishan15-jpg/DSA/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ishan15-jpg/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/ishan15-jpg/DSA/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/ishan15-jpg/DSA/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ishan15-jpg/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
@@ -462,6 +465,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0572-subtree-of-another-tree](https://github.com/ishan15-jpg/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ishan15-jpg/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/ishan15-jpg/DSA/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/ishan15-jpg/DSA/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ishan15-jpg/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Union-Find
 |  |
@@ -470,6 +474,7 @@ I'm a passionate software engineer with a strong foundation in Data Structures &
 | [0130-surrounded-regions](https://github.com/ishan15-jpg/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ishan15-jpg/DSA/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/ishan15-jpg/DSA/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/ishan15-jpg/DSA/tree/master/0695-max-area-of-island) |
 ## String Matching
 |  |
 | ------- |
