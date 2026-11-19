@@ -22,6 +22,16 @@ class Solution:
             dp2[i] = max(nums[i]+dp2[i+2],dp2[i+1])
         return max(dp1[1],dp2[0])
 
+    def tabSO(self, nums: list[int]) -> int:
+        next,next2 = 0,0
+        for i in range(len(nums)-1,0,-1):
+            next,next2 = max(nums[i]+next2,next),next
+        res = next
+        next,next2 = 0,0
+        for i in range(len(nums)-2,-1,-1):
+            next,next2 = max(nums[i]+next2,next),next
+        return max(next,res)
+
     def rob(self, nums: list[int]) -> int:
         if len(nums) <= 2: return max(nums)
-        return self.tab(nums)
+        return self.tabSO(nums)
