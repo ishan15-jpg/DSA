@@ -12,9 +12,16 @@ class Solution:
         skip = self.memo(i+1,end,nums,dp)
         dp[i] = max(rob,skip)
         return dp[i]
+    
+    def tab(self, nums: list[int]) -> int:
+        dp1 = [0] * (len(nums)+2)
+        for i in range(len(nums)-1,0,-1):
+            dp1[i] = max(nums[i]+dp1[i+2],dp1[i+1])
+        dp2 = [0] * (len(nums)+2)
+        for i in range(len(nums)-2,-1,-1):
+            dp2[i] = max(nums[i]+dp2[i+2],dp2[i+1])
+        return max(dp1[1],dp2[0])
 
     def rob(self, nums: list[int]) -> int:
         if len(nums) <= 2: return max(nums)
-        dp1 = [-1] * len(nums)
-        dp2 = [-1] * len(nums)
-        return max(self.memo(0,len(nums)-1,nums,dp1),self.memo(1,len(nums),nums,dp2))
+        return self.tab(nums)
