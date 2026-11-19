@@ -21,6 +21,15 @@ class Solution:
             dp[i] = max(rob,skip)
         return dp[0]
 
+    def tabSO(self, nums: list[int]) -> int:
+        next,next2 = 0,0
+        for i in range(len(nums)-1,-1,-1):
+            rob = nums[i]+next2
+            skip = next
+            next2 = next
+            next = max(rob,skip)
+        return next
+
     def rob(self, nums: list[int]) -> int:
         dp = [-1] * len(nums)
-        return self.tab(nums)
+        return self.tabSO(nums)
