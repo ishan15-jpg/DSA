@@ -1,7 +1,7 @@
 class Solution:
     def backspaceCompare(self, s: str, t: str) -> bool:
+        skip_s,skip_t = 0,0
         i,j = len(s)-1,len(t)-1
-        skip_s = skip_t = 0
         while i >= 0 or j >= 0:
             while i >= 0:
                 if s[i] == '#':
@@ -20,7 +20,8 @@ class Solution:
                     break
                 j -= 1
             if i >= 0 and j >= 0:
-                if s[i] != t[j]: return False
+                if s[i] != t[j]:
+                    return False
             elif i >= 0 or j >= 0:
                 return False
             i -= 1
